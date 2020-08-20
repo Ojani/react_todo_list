@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ojani/react_todo_list.git/static/css/main.e7879178.chunk.css",
+    "main.js": "/Ojani/react_todo_list.git/static/js/main.3c238b90.chunk.js",
+    "main.js.map": "/Ojani/react_todo_list.git/static/js/main.3c238b90.chunk.js.map",
+    "runtime-main.js": "/Ojani/react_todo_list.git/static/js/runtime-main.72e8e75d.js",
+    "runtime-main.js.map": "/Ojani/react_todo_list.git/static/js/runtime-main.72e8e75d.js.map",
+    "static/js/2.8defd8d7.chunk.js": "/Ojani/react_todo_list.git/static/js/2.8defd8d7.chunk.js",
+    "static/js/2.8defd8d7.chunk.js.map": "/Ojani/react_todo_list.git/static/js/2.8defd8d7.chunk.js.map",
+    "index.html": "/Ojani/react_todo_list.git/index.html",
+    "precache-manifest.4808a4b4ac168f92db8a58607256bf63.js": "/Ojani/react_todo_list.git/precache-manifest.4808a4b4ac168f92db8a58607256bf63.js",
+    "service-worker.js": "/Ojani/react_todo_list.git/service-worker.js",
+    "static/css/main.e7879178.chunk.css.map": "/Ojani/react_todo_list.git/static/css/main.e7879178.chunk.css.map",
+    "static/js/2.8defd8d7.chunk.js.LICENSE.txt": "/Ojani/react_todo_list.git/static/js/2.8defd8d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e8e75d.js",
+    "static/js/2.8defd8d7.chunk.js",
+    "static/css/main.e7879178.chunk.css",
+    "static/js/main.3c238b90.chunk.js"
+  ]
+}
