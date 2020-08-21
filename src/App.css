@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 30px;
+  font-family: arial;
+}
+
+.list {
+  width: 500px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+h1 {
+  color: #0477EE;
+}
+
+button, input {
+  font-size: 30px;
+  width: 100%;
+  padding: 10px 0;
+}
+
+button {
+  background: #1588FF;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  transition: background-color .3s;
+}
+
+* + button {
+  margin-top: .25em;
+}
+
+button:hover, button:focus {
+  background: #0477EE;
+}
+
+.left {
+  font-size: 25px;
+}
+
+.list-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  word-break: break-all;
+}
+
+.list-item:nth-child(odd) {
+  background: #EEE;
+}
+
+.delBtn {
+  font-size: .75em;
+  color: red;
+  padding: 2px 6px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 550px) {
+  .list {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .list {
+    font-size: .8em;
+  }
+
+  button, input {
+    font-size: 25px;
+  }
+
+  .left {
+    font-size: 20px;
+  }
+
+}
